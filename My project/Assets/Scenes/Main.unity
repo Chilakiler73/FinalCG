@@ -145,6 +145,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.5013578, y: 2.0101163, z: 10.339138}
   m_Center: {x: 0.21086133, y: 0.0050578103, z: -2.2275786}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:My project/Assets/Scenes/SampleScene.unity
 --- !u!1001 &176503933
 PrefabInstance:
@@ -207,6 +208,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 49c5182137d52ef47afdd8128bd10877, type: 3}
 =======
 >>>>>>> Stashed changes:My project/Assets/Scenes/Main.unity
+=======
+>>>>>>> Stashed changes
 --- !u!1 &219438971
 GameObject:
   m_ObjectHideFlags: 0
@@ -683,11 +686,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 99492eb3b3362004ab83142a061f1096, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:My project/Assets/Scenes/SampleScene.unity
       value: 29.79
 =======
       value: 29.77
 >>>>>>> Stashed changes:My project/Assets/Scenes/Main.unity
+=======
+      value: 29.77
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 99492eb3b3362004ab83142a061f1096, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1214,11 +1221,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9019e054ac013364cac946318a6f07e7, type: 3}
       propertyPath: m_LocalPosition.y
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:My project/Assets/Scenes/SampleScene.unity
       value: 30.633
 =======
       value: 30.1
 >>>>>>> Stashed changes:My project/Assets/Scenes/Main.unity
+=======
+      value: 30.1
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9019e054ac013364cac946318a6f07e7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1827,8 +1838,11 @@ SceneRoots:
   - {fileID: 888617432}
   - {fileID: 698086168}
   - {fileID: 1446275150}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:My project/Assets/Scenes/SampleScene.unity
   - {fileID: 176503933}
 =======
+=======
+>>>>>>> Stashed changes
   - {fileID: 1498508406}
 >>>>>>> Stashed changes:My project/Assets/Scenes/Main.unity
