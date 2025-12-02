@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:My project/Assets/Modelos/Museo/Material.005.mat.meta
 guid: f61f87975c9570d49a23a1c7fc958389
+=======
+guid: ee03653e33379884da3859f5ca8f13ac
+>>>>>>> Stashed changes:My project/Assets/Museo/Material.005.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

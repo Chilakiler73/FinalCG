@@ -15,7 +15,11 @@ Material:
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
+<<<<<<< Updated upstream:My project/Assets/Modelos/Museo/Material.004.mat
   m_DoubleSidedGI: 0
+=======
+  m_DoubleSidedGI: 1
+>>>>>>> Stashed changes:My project/Assets/Museo/Material.004.mat
   m_CustomRenderQueue: -1
   stringTagMap:
     RenderType: Opaque
@@ -91,7 +95,11 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
+<<<<<<< Updated upstream:My project/Assets/Modelos/Museo/Material.004.mat
     - _Cull: 2
+=======
+    - _Cull: 0
+>>>>>>> Stashed changes:My project/Assets/Museo/Material.004.mat
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
@@ -123,7 +131,11 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+<<<<<<< Updated upstream:My project/Assets/Modelos/Museo/Material.004.mat
 --- !u!114 &1677331085910625680
+=======
+--- !u!114 &6471102007222662634
+>>>>>>> Stashed changes:My project/Assets/Museo/Material.004.mat
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream:My project/Assets/Modelos/Museo/Material.002.mat
 --- !u!114 &-1895406149036940809
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -13,6 +14,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 10
+=======
+>>>>>>> Stashed changes:My project/Assets/Museo/Material.002.mat
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -22,8 +25,13 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Material.002
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+<<<<<<< Updated upstream:My project/Assets/Modelos/Museo/Material.002.mat
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
+=======
+  m_Parent: {fileID: 2100000, guid: 5b695fdefa0c449499907c505548ed39, type: 2}
+  m_ModifiedSerializedProperties: 8
+>>>>>>> Stashed changes:My project/Assets/Museo/Material.002.mat
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -37,6 +45,7 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
+<<<<<<< Updated upstream:My project/Assets/Modelos/Museo/Material.002.mat
     m_TexEnvs:
     - _BaseMap:
         m_Texture: {fileID: 2800000, guid: 91d6ddefcd952684e9f5bfb7326d26fc, type: 3}
@@ -136,3 +145,25 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+=======
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Cull: 2
+    m_Colors: []
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &1763632789832117332
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10
+>>>>>>> Stashed changes:My project/Assets/Museo/Material.002.mat

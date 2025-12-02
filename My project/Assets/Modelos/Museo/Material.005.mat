@@ -123,7 +123,11 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+<<<<<<< Updated upstream:My project/Assets/Modelos/Museo/Material.005.mat
 --- !u!114 &5194807457507124491
+=======
+--- !u!114 &6792208382492118080
+>>>>>>> Stashed changes:My project/Assets/Museo/Material.005.mat
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

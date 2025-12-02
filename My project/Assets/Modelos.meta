@@ -1,8 +1,14 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:My project/Assets/Modelos.meta
 guid: 66325f6e119bad9468215685d0efa0ba
 folderAsset: yes
 DefaultImporter:
+========
+guid: 11f3d79c53c671948a79df8ffdfbe504
+NativeFormatImporter:
+>>>>>>>> Stashed changes:My project/Assets/Modelos/Museo/Glass.001.mat.meta
   externalObjects: {}
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
