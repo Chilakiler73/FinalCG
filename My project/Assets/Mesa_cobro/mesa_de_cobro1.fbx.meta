@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:My project/Assets/Cuadros/Cuadro4.fbx.meta
+guid: 80f8b2e573e9a06428bdb4adc7df4012
+========
 guid: afdfbff7950e9c74ea4b9a89bf5ff460
+>>>>>>>> origin:My project/Assets/Mesa_cobro/mesa_de_cobro1.fbx.meta
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
