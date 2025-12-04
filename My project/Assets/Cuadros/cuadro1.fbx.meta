@@ -3,7 +3,12 @@ guid: bb6244c18e118424492d8bc568969ff4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DinoC
+    second: {fileID: 2100000, guid: c173b5d640021824fa0d33c2b83975ab, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
