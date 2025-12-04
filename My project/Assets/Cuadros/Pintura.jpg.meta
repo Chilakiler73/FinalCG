@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:My project/Assets/Cuadros/Pintura.jpg.meta
 guid: b572a2841546f5842b860caf1666cb21
+========
+guid: 70d54d598d35b3346a9afb441d20328a
+>>>>>>>> origin:My project/Assets/Modelos/Dino Taza/dino_taza.jpg.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
