@@ -1291,7 +1291,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 508cc5d88c9ef514cb1cc15f38a6021b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.25
+      value: 0.82
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 508cc5d88c9ef514cb1cc15f38a6021b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1343,7 +1343,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4491189853084088232, guid: 508cc5d88c9ef514cb1cc15f38a6021b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.48
+      value: -9.33
       objectReference: {fileID: 0}
     - target: {fileID: -4491189853084088232, guid: 508cc5d88c9ef514cb1cc15f38a6021b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1351,7 +1351,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4491189853084088232, guid: 508cc5d88c9ef514cb1cc15f38a6021b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.85
+      value: 2.86
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 508cc5d88c9ef514cb1cc15f38a6021b, type: 3}
       propertyPath: m_Name
@@ -2068,7 +2068,7 @@ Transform:
   m_GameObject: {fileID: 521318045}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.70413864, z: -0, w: 0.71006256}
-  m_LocalPosition: {x: -11.150002, y: -0.29999924, z: 4.800001}
+  m_LocalPosition: {x: -11, y: -0.29999924, z: 2.79}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5170,7 +5170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 965e017126f96bd4a8a12ec06d7568f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  activationDistance: 13.71
+  activationDistance: 11.42
   interactionKey: 102
   targetAnimator: {fileID: 0}
   triggerName: 
