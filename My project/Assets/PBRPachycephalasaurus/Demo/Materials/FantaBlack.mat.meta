@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57312042af6720a4c8d1b70e46dc5aa4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226392
+  packageName: PBR Pachycephalasaurus
+  packageVersion: 1.0
+  assetPath: Assets/PBRPachycephalasaurus/Demo/Materials/FantaBlack.mat
+  uploadId: 522320
